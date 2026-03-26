@@ -1,6 +1,6 @@
 [package]
 name = "ha-client"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Liangdi <wu@liangdi.me>"]
 description = "A simple and type-safe Rust client library for Home Assistant API"
