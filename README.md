@@ -318,7 +318,7 @@ cargo fmt
 ## 📮 联系方式
 
 - 作者: Liangdi <wu@liangdi.me>
-- 仓库: https://github.com/yourusername/ha-client
+- 仓库: https://github.com/Liangdi/ha-client
 
 ## 🔗 相关资源
 
